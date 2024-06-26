@@ -1,0 +1,20 @@
+.button-container {
+  width: 100px;
+  height: 100px;
+  border: none;
+  background-color: transparent;
+}
+
+.active-tab-btn {
+  width: 100px;
+  height: 100px;
+  opacity: 1;
+  border-radius: 10px;
+}
+
+.tab-btn {
+  width: 100px;
+  height: 100px;
+  opacity: 0.5;
+  border-radius: 10px;
+}
